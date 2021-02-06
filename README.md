@@ -1,5 +1,5 @@
 # 8puzzleAstar
-Solving an N by N 8 puzzle using A Star search agorithm and a decision tree
+Solving an N by N 8 puzzle using A Star search agorithm, priority queue and a tree.
 
 Input: N = board size
 
